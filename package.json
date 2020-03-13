@@ -10,7 +10,7 @@
     "release": "parcel build ./index.html -d docs --public-url ./"
   },
   "dependencies": {
-    "antd": "^3.3.0",
+    "antd": "^3.26.11",
     "js-base64": "^2.4.3",
     "mermaid": "^8.0.0-alpha.9",
     "moment": "^2.21.0",
